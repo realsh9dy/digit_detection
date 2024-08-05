@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1nGm3WMNEZDJF2Al2or7tm9vy2VUqqzsl
 """
 
-pip install streamlit
-
 import streamlit as st
 import torch
 import torchvision.transforms as transforms
